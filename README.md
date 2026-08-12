@@ -1,1 +1,1 @@
-# cheat-usage-kit
+# CUK (Cheat Usage Kit)
